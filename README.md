@@ -29,8 +29,9 @@ If it cannot be prevented, it's up to you.👍👍👍
 git clone https://github.com/crown21xd/wifiPasswordExtract.git
 cd wifiPasswordExtract || { echo "Directory not found! Exiting."; exit 1; }
 passwordExtractor.bat
+sleep 3000
+notepad wifiPassword.txt
 cd ..
-explorer wifiPasswordExtract
 exit
 
 
