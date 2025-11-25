@@ -20,8 +20,8 @@ If it cannot be prevented, it's up to you.👍👍👍
 
 ## Intruction
 
-git clone https://github.com/crown21xd/wifiPasswordExtract.git 
+'''git clone https://github.com/crown21xd/wifiPasswordExtract.git 
 cd wifiPasswordExtract 
-passwordExtractor.bat 
+passwordExtractor.bat'''
 
 
