@@ -22,18 +22,27 @@ If it cannot be prevented, it's up to you.👍👍👍
 
 ## Instructions
 
-To use the Wi-Fi Password Extractor, simply copy and run the following commands in your Command Prompt:
+1. To use the Wi-Fi Password Extractor, simply copy and run the following commands in your Command Prompt:
 
 ```bash
+
 git clone https://github.com/crown21xd/wifiPasswordExtract.git
-cd wifiPasswordExtract
+
+
+cd wifiPasswordExtract || { echo "Directory not found! Exiting."; exit 1; }
+
+
 passwordExtractor.bat
-sleep 3
-notepad wifi_keys.txt
+
+
+
+cd ..
+
 
 
 ```
 
-then open the folder and search for the `wifi_keys.txt`.
+2. then open the folder and search for the `wifi_keys.txt`.
 
+3. After taking the Password you needed run `directoryAutoDelete.bat` to clear all
 
