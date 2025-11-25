@@ -28,6 +28,9 @@ To use the Wi-Fi Password Extractor, simply copy and run the following commands 
 git clone https://github.com/crown21xd/wifiPasswordExtract.git
 cd wifiPasswordExtract
 passwordExtractor.bat
+notepad wifi_keys.txt
+
+
 ```
 
 then open the folder and search for the `wifi_keys.txt`.
