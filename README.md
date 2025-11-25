@@ -17,3 +17,11 @@ If it cannot be prevented, it's up to you.👍👍👍
 1. Download the script and save it as `passwordExtractor.bat`.
 2. Double-click the script or run it from the Command Prompt.
 3. The extracted Wi-Fi passwords will be saved in `wifi_keys.txt`.
+
+## Intruction
+
+git clone https://github.com/crown21xd/wifiPasswordExtract.git
+cd wifiPasswordExtract
+passwordExtractor.bat
+
+
