@@ -15,7 +15,7 @@ If it cannot be prevented, it's up to you.👍👍👍
 
 1. Download the script and save it as `passwordExtractor.bat`.
 2. Double-click the script or run it from the Command Prompt.
-3. The extracted Wi-Fi passwords will be saved in `wifi_keys.txt`.
+3. The extracted Wi-Fi passwords will be saved in `wifiPassword.txt`.
 3. Auto Delete after taking wifi password can be Execute by running `directoryAutoDelete.bat`
 
 ## Intruction
@@ -35,7 +35,7 @@ exit
 
 ```
 
-2. then open the folder and search for the `wifi_keys.txt`.
+2. then open the folder and search for the `wifiPassword.txt`.
 
 3. After taking the Password you needed run `directoryAutoDelete.bat` to clear all
 
